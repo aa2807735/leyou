@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1bf6d80d-6e52-4005-9445-668cddcb4e7b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="leyou">
+      <favorite_root url="file://$PROJECT_DIR$/ly-config" module="leyou" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+        <favorite_root url="file://$PROJECT_DIR$/ly-config/src" module="leyou" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/ly-config/src/main" module="leyou" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/ly-config/src/main/java" module="leyou" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/ly-config/src/main/java/com" module="leyou" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="file://$PROJECT_DIR$/ly-config/src/main/java/com/leyou" module="leyou" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://$PROJECT_DIR$/ly-config/src/main/java/com/leyou/upload" module="leyou" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/ly-config/src/main/java/com/leyou/upload/web" module="leyou" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/ly-config/src/main/java/com/leyou/upload/web/UploadController.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    </favorite_root>
+                    <favorite_root url="file://$PROJECT_DIR$/ly-config/src/main/java/com/leyou/upload/conf" module="leyou" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/ly-config/src/main/java/com/leyou/upload/conf/UploadProperties.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://$PROJECT_DIR$/ly-config/src/main/java/com/leyou/upload/conf/FastClientImporter.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    </favorite_root>
+                    <favorite_root url="file://$PROJECT_DIR$/ly-config/src/main/java/com/leyou/upload/service" module="leyou" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/ly-config/src/main/java/com/leyou/upload/service/UploadService.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    </favorite_root>
+                  </favorite_root>
+                  <favorite_root url="file://$PROJECT_DIR$/ly-config/src/main/java/com/leyou/LyUploadService.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+              </favorite_root>
+            </favorite_root>
+            <favorite_root url="file://$PROJECT_DIR$/ly-config/src/main/resources" module="leyou" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/ly-config/src/main/resources/application.yml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+          </favorite_root>
+          <favorite_root url="file://$PROJECT_DIR$/ly-config/src/test" module="leyou" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/ly-config/src/test/java" module="leyou" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/ly-config/src/test/java/com" module="leyou" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="file://$PROJECT_DIR$/ly-config/src/test/java/com/leyou" module="leyou" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              </favorite_root>
+            </favorite_root>
+          </favorite_root>
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/ly-config/target" module="leyou" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/ly-config/target/classes" module="leyou" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/ly-config/target/classes/com" module="leyou" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/ly-config/target/classes/com/leyou" module="leyou" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="file://$PROJECT_DIR$/ly-config/target/classes/com/leyou/upload" module="leyou" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://$PROJECT_DIR$/ly-config/target/classes/com/leyou/upload/web" module="leyou" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/ly-config/target/classes/com/leyou/upload/web/UploadController.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="file://$PROJECT_DIR$/ly-config/target/classes/com/leyou/upload/conf" module="leyou" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/ly-config/target/classes/com/leyou/upload/conf/UploadProperties.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/ly-config/target/classes/com/leyou/upload/conf/FastClientImporter.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="file://$PROJECT_DIR$/ly-config/target/classes/com/leyou/upload/service" module="leyou" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/ly-config/target/classes/com/leyou/upload/service/UploadService.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                </favorite_root>
+                <favorite_root url="file://$PROJECT_DIR$/ly-config/target/classes/com/leyou/LyUploadService.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+            </favorite_root>
+            <favorite_root url="file://$PROJECT_DIR$/ly-config/target/classes/application.yml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="file://$PROJECT_DIR$/ly-config/target/test-classes" module="leyou" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/ly-config/target/test-classes/META-INF" module="leyou" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/ly-config/target/test-classes/META-INF/ly-upload.kotlin_module" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+          </favorite_root>
+          <favorite_root url="file://$PROJECT_DIR$/ly-config/target/generated-sources" module="leyou" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/ly-config/target/generated-sources/annotations" module="leyou" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+          </favorite_root>
+          <favorite_root url="file://$PROJECT_DIR$/ly-config/target/generated-test-sources" module="leyou" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/ly-config/target/generated-test-sources/test-annotations" module="leyou" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+          </favorite_root>
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/ly-config/pom.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/ly-config/ly-upload.iml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      </favorite_root>
+    </favorites_list>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+        <option value="JUnit5 Test Class" />
+        <option value="HTML File" />
+        <option value="Arquillian JUnit Test Class" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+        <option name="localRepository" value="D:\Java\Maven\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../Maven-New" />
+        <option name="userSettingsFile" value="D:\Java\Maven-New\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+    <option name="enabledProfiles">
+      <list>
+        <option value="jdk-1.8" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1b7dVfP1pWuCKW2OkrNBCKPVgOZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/leyou" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="spring" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.leyou.page.serivce" />
+      <recent name="com.leyou.search.repository" />
+      <recent name="com.leyou.search.pojo.search.client" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java\idea\leyou\leyou-portal-master\js" />
+      <recent name="D:\Java\idea\leyou\ly-getway\src\main\java\com\leyou" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.leyou.order.config" />
+      <recent name="com.leyou.order.interceptor" />
+      <recent name="com.leyou.cart.config" />
+      <recent name="com.leyou.gatway.conf" />
+      <recent name="com.leyou.common.utils" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\idea\leyou" />
+      <recent name="D:\Java\idea\leyou\leyou-portal-master" />
+      <recent name="D:\Java\idea\leyou\ly-common\src\main\java\com\leyou\common" />
+      <recent name="D:\Java\idea\leyou\ly-order\src\main\java\com\leyou\order\pojo" />
+      <recent name="D:\Java\idea\leyou\ly-auth\ly-auth-common\src\main\java\com\leyou\auth" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Lock_Print">
+    <configuration name="Lock_Print" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leyou.spike.client.Lock_Print" />
+      <module name="ly-spike" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leyou.spike.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="ly-auth" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.test (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ly-user" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigCenter" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ly-config" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leyou.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.config.ConfigCenter" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeyouUserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ly-user-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.LeyouUserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LyAuthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ly-auth-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.LyAuthApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LyCartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ly-cart" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.LyCartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LyGatway" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ly-getway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.gatway.LyGatway" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LyItemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ly-item-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.api.LyItemApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LyOrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ly-order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.LyOrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LyPageApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ly-page" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leyou.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.LyPageApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LyRegistry" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ly-registry" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.LyRegistry" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LySearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ly-search" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.LySearchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LySmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ly-sms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.LySmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LyUploadService" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ly-upload" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.LyUploadService" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Lock_Print" />
+        <item itemvalue="Spring Boot.LyPageApplication" />
+        <item itemvalue="Spring Boot.ConfigCenter" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="JUnit.test.test (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.12445887" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Not Started" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_INHERITED" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1bf6d80d-6e52-4005-9445-668cddcb4e7b" name="Default Changelist" comment="" />
+      <created>1587987090628</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587987090628</updated>
+      <workItem from="1587987092171" duration="6678000" />
+      <workItem from="1587994633906" duration="1262000" />
+      <workItem from="1588029523908" duration="26436000" />
+      <workItem from="1588117090218" duration="17779000" />
+      <workItem from="1588210904229" duration="16781000" />
+      <workItem from="1588290757864" duration="25208000" />
+      <workItem from="1588379203747" duration="713000" />
+      <workItem from="1588462706505" duration="28066000" />
+      <workItem from="1588547058366" duration="14282000" />
+      <workItem from="1588568818259" duration="12136000" />
+      <workItem from="1588636477275" duration="16415000" />
+      <workItem from="1588687108900" duration="596000" />
+      <workItem from="1588759421814" duration="9523000" />
+      <workItem from="1588813295509" duration="23149000" />
+      <workItem from="1588892284422" duration="27328000" />
+      <workItem from="1588979954109" duration="18514000" />
+      <workItem from="1589073060601" duration="23750000" />
+      <workItem from="1589151388498" duration="8089000" />
+      <workItem from="1589238046869" duration="7121000" />
+      <workItem from="1589410530528" duration="6721000" />
+      <workItem from="1590147627918" duration="2470000" />
+      <workItem from="1590198171242" duration="7344000" />
+      <workItem from="1590459408877" duration="172000" />
+      <workItem from="1590460426286" duration="12271000" />
+      <workItem from="1590823832721" duration="42638000" />
+      <workItem from="1591063193980" duration="2427000" />
+      <workItem from="1591183850330" duration="6575000" />
+      <workItem from="1591226937761" duration="6010000" />
+      <workItem from="1591235789924" duration="15774000" />
+      <workItem from="1591661414238" duration="6394000" />
+      <workItem from="1592028034767" duration="8772000" />
+      <workItem from="1592305532804" duration="9760000" />
+      <workItem from="1592869067106" duration="2388000" />
+      <workItem from="1593399396920" duration="775000" />
+      <workItem from="1593413927576" duration="622000" />
+      <workItem from="1593693320723" duration="4869000" />
+      <workItem from="1594301929217" duration="1171000" />
+      <workItem from="1596857645945" duration="1480000" />
+      <workItem from="1596952678777" duration="3864000" />
+      <workItem from="1597153324007" duration="586000" />
+      <workItem from="1597240928491" duration="2029000" />
+      <workItem from="1597458019962" duration="2279000" />
+      <workItem from="1597541086745" duration="599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="615" y="335" key="#Inspections" timestamp="1589258541399">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="615" y="335" key="#Inspections/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1589258541399" />
+    <state x="552" y="178" key="#Notifications" timestamp="1591235635168">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1591235635168" />
+    <state x="552" y="178" key="#Project_Structure" timestamp="1596952791080">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1590925129675" />
+    <state x="2472" y="178" key="#Project_Structure/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589437714303" />
+    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1596952791080" />
+    <state x="552" y="178" key="#Servers" timestamp="1591235742137">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Servers/0.0.1920.1040@0.0.1920.1040" timestamp="1591235742137" />
+    <state x="0" y="458" width="756" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1592646759704">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="458" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1589030054811" />
+    <state x="0" y="458" width="756" height="569" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1592646759704" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589106743177">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1589106743177" />
+    <state x="715" y="221" key="#xdebugger.evaluate" timestamp="1588926470452">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="715" y="221" key="#xdebugger.evaluate/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588926470452" />
+    <state x="770" y="278" width="691" height="692" key="FileChooserDialogImpl" timestamp="1591229199846">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="770" y="278" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591229199846" />
+    <state x="2690" y="278" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590208253604" />
+    <state x="770" y="278" width="691" height="692" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1591226428772" />
+    <state width="1877" height="283" key="GridCell.Tab.0.bottom" timestamp="1592649958039">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591234762451" />
+    <state width="1541" height="419" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590459679834" />
+    <state width="1877" height="283" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592649958039" />
+    <state width="1877" height="283" key="GridCell.Tab.0.center" timestamp="1592649958036">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591234762451" />
+    <state width="1541" height="419" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590459679833" />
+    <state width="1877" height="283" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592649958036" />
+    <state width="1877" height="283" key="GridCell.Tab.0.left" timestamp="1592649958036">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591234762449" />
+    <state width="1541" height="419" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590459679832" />
+    <state width="1877" height="283" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592649958036" />
+    <state width="1877" height="283" key="GridCell.Tab.0.right" timestamp="1592649958039">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591234762451" />
+    <state width="1541" height="419" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590459679833" />
+    <state width="1877" height="283" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592649958039" />
+    <state width="1484" height="334" key="GridCell.Tab.1.bottom" timestamp="1591367303787">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591234762451" />
+    <state width="1541" height="419" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590459679834" />
+    <state width="1484" height="334" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591367303787" />
+    <state width="1484" height="334" key="GridCell.Tab.1.center" timestamp="1591367303787">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591234762451" />
+    <state width="1541" height="419" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590459679834" />
+    <state width="1484" height="334" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591367303787" />
+    <state width="1484" height="334" key="GridCell.Tab.1.left" timestamp="1591367303786">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591234762451" />
+    <state width="1541" height="419" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590459679834" />
+    <state width="1484" height="334" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591367303786" />
+    <state width="1484" height="334" key="GridCell.Tab.1.right" timestamp="1591367303787">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591234762451" />
+    <state width="1541" height="419" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590459679834" />
+    <state width="1484" height="334" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591367303787" />
+    <state width="1593" height="386" key="GridCell.Tab.2.bottom" timestamp="1589109869149">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1593" height="386" key="GridCell.Tab.2.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1589109869149" />
+    <state width="1501" height="446" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589019300438" />
+    <state width="1593" height="386" key="GridCell.Tab.2.center" timestamp="1589109869149">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1593" height="386" key="GridCell.Tab.2.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1589109869149" />
+    <state width="1501" height="446" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589019300438" />
+    <state width="1593" height="386" key="GridCell.Tab.2.left" timestamp="1589109869149">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1593" height="386" key="GridCell.Tab.2.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1589109869149" />
+    <state width="1501" height="446" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589019300438" />
+    <state width="1593" height="386" key="GridCell.Tab.2.right" timestamp="1589109869149">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1593" height="386" key="GridCell.Tab.2.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1589109869149" />
+    <state width="1501" height="446" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589019300438" />
+    <state x="701" y="349" key="Maven.ArtifactSearchDialog" timestamp="1588915844303">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="701" y="349" key="Maven.ArtifactSearchDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588915844303" />
+    <state x="600" y="217" width="858" height="606" key="NewModule_or_Project.wizard" timestamp="1591226431442">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="600" y="217" width="858" height="606" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1591226431442" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1591226445577">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="707" y="188" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591187397212" />
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1591226445577" />
+    <state width="254" height="198" key="ShowFilterAction_Filter_Popup" timestamp="1590972017195">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="254" height="198" key="ShowFilterAction_Filter_Popup/0.0.1920.1040@0.0.1920.1040" timestamp="1590972017195" />
+    <state x="774" y="591" key="chooseDestDirectoryDialog" timestamp="1591236492770">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="774" y="591" key="chooseDestDirectoryDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591234617203" />
+    <state x="774" y="591" key="chooseDestDirectoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591236492770" />
+    <state x="640" y="343" width="905" height="469" key="com.intellij.ide.util.TipDialog" timestamp="1597566098067">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="343" width="905" height="469" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591063194103" />
+    <state x="2560" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590199074018" />
+    <state x="640" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597566098067" />
+    <state x="426" y="180" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1591184228038">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="426" y="180" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591184228038" />
+    <state x="1009" y="390" key="extract.method.dialog" timestamp="1589026003958">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1009" y="390" key="extract.method.dialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1589026003958" />
+    <state x="636" y="253" width="647" height="534" key="find.popup" timestamp="1588982047789">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="636" y="253" width="647" height="534" key="find.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588982047789" />
+    <state x="365" y="385" key="new project wizard" timestamp="1591226234972">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="298" y="258" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591184099491" />
+    <state x="365" y="385" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1591226234972" />
+    <state x="601" y="246" width="700" height="530" key="recent.locations.popup" timestamp="1588926727066">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="601" y="246" width="700" height="530" key="recent.locations.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588926727066" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1592029316687">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1592029316687" />
+    <state x="82" y="117" width="672" height="678" key="search.everywhere.popup" timestamp="1596955250246">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="240" y="270" width="1380" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1590929759472" />
+    <state x="2839" y="261" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589438951521" />
+    <state x="82" y="117" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1596955250246" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ly-upload/src/main/java/com/leyou/upload/web/UploadController.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/leyou/api/service/GoodService.java</url>
+          <line>85</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/leyou/api/service/GoodService.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ly-common/src/main/java/com/leyou/common/utils/CookieUtilsOther.java</url>
+          <line>156</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ly-common/src/main/java/com/leyou/common/utils/CookieUtilsOther.java</url>
+          <line>129</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ly-common/src/main/java/com/leyou/common/utils/CookieUtilsOther.java</url>
+          <line>131</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ly-common/src/main/java/com/leyou/common/utils/CookieUtilsOther.java</url>
+          <line>132</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-zuul/2.0.1.RELEASE/spring-cloud-netflix-zuul-2.0.1.RELEASE-sources.jar!/org/springframework/cloud/netflix/zuul/filters/pre/PreDecorationFilter.java</url>
+          <line>110</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ly-order/src/main/java/com/leyou/order/interceptor/UserInterceptor.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ly-order/src/main/java/com/leyou/order/interceptor/UserInterceptor.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

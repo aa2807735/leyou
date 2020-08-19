@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "ly.sms",
+      "type": "com.leyou.sms.config.config",
+      "sourceType": "com.leyou.sms.config.config"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}

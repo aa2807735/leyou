@@ -1,0 +1,14 @@
+server:
+  port: 8086
+spring:
+  rabbitmq:
+    host: 47.92.36.107
+    username: leyou
+    password: leyou
+    virtual-host: /leyou
+ly:
+  sms:
+    key: 123
+    secret: wgb
+    signName: 乐优商城
+    template: temp

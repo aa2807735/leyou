@@ -1,0 +1,32 @@
+server:
+  port: 9099
+spring:
+  application:
+    name: spike-service
+  datasource:
+    url: jdbc:mysql://localhost:3310/yun6?characterEncoding=utf8
+    username: root
+    password: wgbsql
+  redis:
+    host: 47.92.36.107
+  rabbitmq:
+    host: 47.92.36.107
+    username: leyou
+    password: leyou
+    virtual-host: /leyou
+    template:
+      retry:
+        enabled: true
+        initial-interval: 10000ms
+        max-interval: 30000ms
+        multiplier: 2
+      exchange: leyou.spike.exchange
+    publisher-confirms: true
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:10086/eureka
+    registry-fetch-interval-seconds: 5
+  instance:
+    ip-address: 127.0.0.1
+    prefer-ip-address: true
