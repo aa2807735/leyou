@@ -4,6 +4,7 @@ import com.leyou.user.pojo.User;
 import com.leyou.user.service.UserService;
 import org.aspectj.apache.bcel.classfile.Code;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.support.DefaultMessageSourceResolvable;
 import org.springframework.http.HttpRequest;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -43,7 +44,7 @@ public class UserController {
     public ResponseEntity<Void> register(@Valid User user, BindingResult result, @RequestParam("code") String code) {
         if (result.hasErrors()) {
             throw new RuntimeException(result.getFieldErrors().stream().
-                    map(e -> e.getDefaultMessage()).collect(Collectors.joining(",")));
+                    map(DefaultMessageSourceResolvable::getDefaultMessage).collect(Collectors.joining(",")));
         }
         userService.register(user, code);
         return ResponseEntity.status(HttpStatus.CREATED).build();

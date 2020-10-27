@@ -57,7 +57,6 @@ public class CategoryService {
         return list;
     }
 
-    @Transactional
     public void addCategoryNode(Category category) {
         Long parentId = category.getParentId();
         Category parent = categoryMapper.selectByPrimaryKey(parentId);

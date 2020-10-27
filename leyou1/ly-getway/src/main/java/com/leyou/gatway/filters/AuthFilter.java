@@ -16,6 +16,7 @@ import org.springframework.stereotype.Component;
 
 import javax.servlet.http.Cookie;
 import javax.servlet.http.HttpServletRequest;
+import java.util.HashMap;
 
 /**
  * ClassName: AuthFilter <br/>
@@ -80,6 +81,7 @@ public class AuthFilter extends ZuulFilter {
             ctx.setSendZuulResponse(false);
             ctx.setResponseStatusCode(403);
         }
+        HashMap
         return null;
     }
 }

@@ -44,7 +44,7 @@ public class NumberUtils {
 
     // 从字符串中根据正则表达式寻找，返回找到的数字数组
     public static Double[] searchNumber(String value, String regex){
-        List<Double> doubles = new ArrayList<>();
+        List<Double> doubles = new ArrayList<Double>();
         Pattern pattern = Pattern.compile(regex);
         Matcher matcher = pattern.matcher(value);
         if(matcher.find()) {
