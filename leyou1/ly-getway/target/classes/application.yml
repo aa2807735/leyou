@@ -37,7 +37,7 @@ hystrix:
             timeoutInMillisecond: 6000 # 熔断超时时长：10000ms
 leyou:
   jwt:
-    pubKeyPath: D:\\Java\\idea\\leyou\\auth-key\\rsa.pub # 公钥地址
+    pubKeyPath: C:\\Users\\otsadmin\\Desktop\\me\\leyou\\leyou1\\auth-key\\rsa.pub # 公钥地址
     cookieName: LY_TOKEN
   filter:
     allowPaths:

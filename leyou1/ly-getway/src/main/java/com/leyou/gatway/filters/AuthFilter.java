@@ -81,7 +81,6 @@ public class AuthFilter extends ZuulFilter {
             ctx.setSendZuulResponse(false);
             ctx.setResponseStatusCode(403);
         }
-        HashMap
         return null;
     }
 }

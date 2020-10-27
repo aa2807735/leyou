@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/leyou.iml" filepath="$PROJECT_DIR$/leyou.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ly-auth/ly-auth.iml" filepath="$PROJECT_DIR$/ly-auth/ly-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ly-auth/ly-auth-common/ly-auth-common.iml" filepath="$PROJECT_DIR$/ly-auth/ly-auth-common/ly-auth-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ly-auth/ly-auth-server/ly-auth-server.iml" filepath="$PROJECT_DIR$/ly-auth/ly-auth-server/ly-auth-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/ly-cart/ly-cart.iml" filepath="$PROJECT_DIR$/ly-cart/ly-cart.iml" />
       <module fileurl="file://$PROJECT_DIR$/ly-common/ly-common.iml" filepath="$PROJECT_DIR$/ly-common/ly-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/ly-getway/ly-getway.iml" filepath="$PROJECT_DIR$/ly-getway/ly-getway.iml" />
