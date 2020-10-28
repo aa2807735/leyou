@@ -28,20 +28,20 @@
       <module name="leyou" target="1.8" />
       <module name="ly-auth" target="1.8" />
       <module name="ly-auth-common" target="1.8" />
-      <module name="ly-auth-server" target="1.8" />
-      <module name="ly-cart" target="1.8" />
+      <module name="ly-auth-server" target="8" />
+      <module name="ly-cart" target="8" />
       <module name="ly-common" target="1.8" />
       <module name="ly-getway" target="6" />
       <module name="ly-item" target="1.8" />
       <module name="ly-item-interface" target="1.8" />
       <module name="ly-item-service" target="8" />
       <module name="ly-order" target="8" />
-      <module name="ly-page" target="1.8" />
-      <module name="ly-registry" target="1.8" />
+      <module name="ly-page" target="8" />
+      <module name="ly-registry" target="8" />
       <module name="ly-search" target="8" />
-      <module name="ly-sms" target="1.8" />
-      <module name="ly-spike" target="1.8" />
-      <module name="ly-upload" target="1.8" />
+      <module name="ly-sms" target="8" />
+      <module name="ly-spike" target="8" />
+      <module name="ly-upload" target="8" />
       <module name="ly-user" target="1.8" />
       <module name="ly-user-interface" target="1.8" />
       <module name="ly-user-service" target="8" />

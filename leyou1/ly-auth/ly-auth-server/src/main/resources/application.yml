@@ -13,7 +13,7 @@ eureka:
 leyou:
   jwt:
     secret: leyou@Login(Auth}*^31)&heiMa% # 登录校验的密钥 随便编写
-    pubKeyPath: D:\\Java\\idea\\leyou\\auth-key\\rsa.pub # 公钥地址
-    priKeyPath: D:\\Java\\idea\\leyou\\auth-key\\rsa.pri # 私钥地址
+    pubKeyPath: C:\\Users\\otsadmin\\Desktop\\me\\leyou\\leyou1\\auth-key\\rsa.pub # 公钥地址
+    priKeyPath: C:\\Users\\otsadmin\\Desktop\\me\\leyou\\leyou1\\auth-key\\rsa.pri # 私钥地址
     expire: 30 # 过期时间,单位分钟
     cookieName: LY_TOKEN

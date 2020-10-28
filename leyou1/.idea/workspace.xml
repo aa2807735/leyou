@@ -2,50 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c99e949-e24f-4b31-a4f9-e50a92fbb8d8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_jsonwebtoken_jjwt_0_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_10_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ly-auth/ly-auth-common/ly-auth-common.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ly-auth/ly-auth-server/ly-auth-server.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ly-auth/ly-auth.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/ly_user_service_jar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_itcast_auth_ly_auth_common_1_0_SNAPSHOT.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_10_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_5_RELEASE.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leyou.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leyou.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-auth/ly-auth-common/ly-auth-common.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-auth/ly-auth-common/ly-auth-common.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-auth/ly-auth-common/src/test/java/com/leyou/auth/test/JwtTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-auth/ly-auth-common/target/test-classes/com/leyou/auth/test/JwtTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-auth/ly-auth-server/ly-auth-server.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-auth/ly-auth-server/ly-auth-server.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-auth/ly-auth-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-auth/ly-auth-server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-auth/ly-auth-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-auth/ly-auth-server/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-auth/ly-auth.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-auth/ly-auth.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-auth/src/test/java/test.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ly-cart/ly-cart.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-cart/ly-cart.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-cart/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-cart/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ly-common/ly-common.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-common/ly-common.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ly-common/target/classes/com/leyou/common/advice/CommonException.class" beforeDir="false" afterPath="$PROJECT_DIR$/ly-common/target/classes/com/leyou/common/advice/CommonException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ly-common/target/classes/com/leyou/common/dto/AddressDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/ly-common/target/classes/com/leyou/common/dto/AddressDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ly-common/target/classes/com/leyou/common/dto/CartDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/ly-common/target/classes/com/leyou/common/dto/CartDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ly-common/target/classes/com/leyou/common/enums/ExceptionEnums.class" beforeDir="false" afterPath="$PROJECT_DIR$/ly-common/target/classes/com/leyou/common/enums/ExceptionEnums.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ly-common/target/classes/com/leyou/common/exception/MyException.class" beforeDir="false" afterPath="$PROJECT_DIR$/ly-common/target/classes/com/leyou/common/exception/MyException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ly-common/target/classes/com/leyou/common/mapper/BaseMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/ly-common/target/classes/com/leyou/common/mapper/BaseMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ly-common/target/classes/com/leyou/common/utils/CookieUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/ly-common/target/classes/com/leyou/common/utils/CookieUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ly-common/target/classes/com/leyou/common/utils/CookieUtilsOther$CookieBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/ly-common/target/classes/com/leyou/common/utils/CookieUtilsOther$CookieBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ly-common/target/classes/com/leyou/common/utils/CookieUtilsOther.class" beforeDir="false" afterPath="$PROJECT_DIR$/ly-common/target/classes/com/leyou/common/utils/CookieUtilsOther.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ly-common/target/classes/com/leyou/common/utils/IdWorker.class" beforeDir="false" afterPath="$PROJECT_DIR$/ly-common/target/classes/com/leyou/common/utils/IdWorker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ly-common/target/classes/com/leyou/common/utils/JsonUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/ly-common/target/classes/com/leyou/common/utils/JsonUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ly-common/target/classes/com/leyou/common/utils/NumberUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/ly-common/target/classes/com/leyou/common/utils/NumberUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ly-common/target/classes/com/leyou/common/vo/ExceptionResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/ly-common/target/classes/com/leyou/common/vo/ExceptionResult.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ly-common/target/classes/com/leyou/common/vo/PageResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/ly-common/target/classes/com/leyou/common/vo/PageResult.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-common/target/ly-common-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/ly-common/target/ly-common-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-common/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ly-common/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/ly-common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/ly-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ly-getway/ly-getway.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-getway/ly-getway.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ly-getway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-getway/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ly-getway/src/main/java/com/leyou/gatway/conf/GlobalCorsConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/ly-getway/src/main/java/com/leyou/gatway/conf/GlobalCorsConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ly-getway/src/main/java/com/leyou/gatway/filters/AuthFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/ly-getway/src/main/java/com/leyou/gatway/filters/AuthFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ly-getway/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-getway/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ly-getway/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-getway/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ly-getway/target/classes/com/leyou/gatway/LyGatway.class" beforeDir="false" afterPath="$PROJECT_DIR$/ly-getway/target/classes/com/leyou/gatway/LyGatway.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ly-getway/target/classes/com/leyou/gatway/conf/FilterProperties.class" beforeDir="false" afterPath="$PROJECT_DIR$/ly-getway/target/classes/com/leyou/gatway/conf/FilterProperties.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-getway/target/classes/META-INF/ly-getway.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ly-getway/target/classes/com/leyou/gatway/conf/GlobalCorsConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/ly-getway/target/classes/com/leyou/gatway/conf/GlobalCorsConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ly-getway/target/classes/com/leyou/gatway/conf/JwtProperties.class" beforeDir="false" afterPath="$PROJECT_DIR$/ly-getway/target/classes/com/leyou/gatway/conf/JwtProperties.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ly-getway/target/classes/com/leyou/gatway/filters/AuthFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/ly-getway/target/classes/com/leyou/gatway/filters/AuthFilter.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ly-item/ly-item-interface/ly-item-interface.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-item/ly-item-interface/ly-item-interface.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-item/ly-item-interface/target/classes/META-INF/ly-item-interface.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ly-item/ly-item-interface/target/classes/com/leyou/api/BrandApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/ly-item/ly-item-interface/target/classes/com/leyou/api/BrandApi.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ly-item/ly-item-interface/target/classes/com/leyou/api/CategoryApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/ly-item/ly-item-interface/target/classes/com/leyou/api/CategoryApi.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ly-item/ly-item-interface/target/classes/com/leyou/api/GoodApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/ly-item/ly-item-interface/target/classes/com/leyou/api/GoodApi.class" afterDir="false" />
@@ -59,33 +43,63 @@
       <change beforePath="$PROJECT_DIR$/ly-item/ly-item-interface/target/classes/com/leyou/pojo/SpuDetail.class" beforeDir="false" afterPath="$PROJECT_DIR$/ly-item/ly-item-interface/target/classes/com/leyou/pojo/SpuDetail.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ly-item/ly-item-interface/target/classes/com/leyou/pojo/Stock.class" beforeDir="false" afterPath="$PROJECT_DIR$/ly-item/ly-item-interface/target/classes/com/leyou/pojo/Stock.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ly-item/ly-item-interface/target/classes/com/leyou/pojo/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/ly-item/ly-item-interface/target/classes/com/leyou/pojo/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ly-item/ly-item-service/target/classes/com/leyou/api/service/CategoryService.class" beforeDir="false" afterPath="$PROJECT_DIR$/ly-item/ly-item-service/target/classes/com/leyou/api/service/CategoryService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ly-item/ly-item-service/target/classes/com/leyou/api/service/GoodService.class" beforeDir="false" afterPath="$PROJECT_DIR$/ly-item/ly-item-service/target/classes/com/leyou/api/service/GoodService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-item/ly-item-service/ly-item-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-item/ly-item-service/ly-item-service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-item/ly-item-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-item/ly-item-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-item/ly-item-service/src/test/java/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-item/ly-item-service/target/classes/META-INF/ly-item-service.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-item/ly-item-service/target/test-classes/test.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ly-item/ly-item.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-item/ly-item.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ly-order/ly-order.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-order/ly-order.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-order/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-order/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-order/target/classes/META-INF/ly-order.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-order/target/classes/com/leyou/LyOrderApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/ly-order/target/classes/com/leyou/LyOrderApplication.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ly-page/ly-page.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-page/ly-page.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-page/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-page/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-page/src/test/java/com/leyou/page/serivce/PageServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-page/target/classes/META-INF/ly-page.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-page/target/classes/com/leyou/page/web/pageController.class" beforeDir="false" afterPath="$PROJECT_DIR$/ly-page/target/classes/com/leyou/page/web/pageController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-page/target/test-classes/com/leyou/page/serivce/PageServiceTest.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ly-registry/ly-registry.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-registry/ly-registry.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-registry/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-registry/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-registry/target/classes/com/leyou/LyRegistry.class" beforeDir="false" afterPath="$PROJECT_DIR$/ly-registry/target/classes/com/leyou/LyRegistry.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ly-search/ly-search.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-search/ly-search.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ly-search/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-search/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-search/src/test/java/com/leyou/search/pojo/search/client/CategoryClientTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-search/src/test/java/com/leyou/search/repository/GoodsRepositoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-search/target/classes/META-INF/ly-search.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-search/target/test-classes/com/leyou/search/pojo/search/client/CategoryClientTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-search/target/test-classes/com/leyou/search/repository/GoodsRepositoryTest.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ly-sms/ly-sms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-sms/ly-sms.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ly-sms/target/classes/com/leyou/LySmsApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/ly-sms/target/classes/com/leyou/LySmsApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ly-sms/target/classes/com/leyou/sms/config/config.class" beforeDir="false" afterPath="$PROJECT_DIR$/ly-sms/target/classes/com/leyou/sms/config/config.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ly-sms/target/classes/com/leyou/sms/mq/SmsListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/ly-sms/target/classes/com/leyou/sms/mq/SmsListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ly-sms/target/classes/com/leyou/sms/utils/SmsUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/ly-sms/target/classes/com/leyou/sms/utils/SmsUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-sms/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-sms/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ly-spike/ly-spike.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-spike/ly-spike.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-spike/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-spike/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-spike/target/classes/META-INF/ly-spike.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ly-spike/target/classes/com/leyou/SpikeApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/ly-spike/target/classes/com/leyou/SpikeApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-spike/target/classes/com/leyou/spike/client/Lock_Print$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-spike/target/classes/com/leyou/spike/client/Lock_Print$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-spike/target/classes/com/leyou/spike/client/Lock_Print$ThreadA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-spike/target/classes/com/leyou/spike/client/Lock_Print$ThreadB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-spike/target/classes/com/leyou/spike/client/Lock_Print$ThreadC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-spike/target/classes/com/leyou/spike/client/Lock_Print.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ly-spike/target/classes/com/leyou/spike/service/SpikeService.class" beforeDir="false" afterPath="$PROJECT_DIR$/ly-spike/target/classes/com/leyou/spike/service/SpikeService.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ly-spike/target/classes/com/leyou/spike/web/SpikeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/ly-spike/target/classes/com/leyou/spike/web/SpikeController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ly-upload/ly-upload.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-upload/ly-upload.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-upload/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-upload/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ly-upload/target/classes/com/leyou/LyUploadService.class" beforeDir="false" afterPath="$PROJECT_DIR$/ly-upload/target/classes/com/leyou/LyUploadService.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ly-upload/target/classes/com/leyou/upload/conf/FastClientImporter.class" beforeDir="false" afterPath="$PROJECT_DIR$/ly-upload/target/classes/com/leyou/upload/conf/FastClientImporter.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ly-upload/target/classes/com/leyou/upload/conf/UploadProperties.class" beforeDir="false" afterPath="$PROJECT_DIR$/ly-upload/target/classes/com/leyou/upload/conf/UploadProperties.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ly-upload/target/classes/com/leyou/upload/service/UploadService.class" beforeDir="false" afterPath="$PROJECT_DIR$/ly-upload/target/classes/com/leyou/upload/service/UploadService.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ly-upload/target/classes/com/leyou/upload/web/UploadController.class" beforeDir="false" afterPath="$PROJECT_DIR$/ly-upload/target/classes/com/leyou/upload/web/UploadController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-upload/target/test-classes/META-INF/ly-upload.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ly-user/ly-user-interface/ly-user-interface.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-user/ly-user-interface/ly-user-interface.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ly-user/ly-user-interface/target/classes/com/leyou/user/api/UserApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/ly-user/ly-user-interface/target/classes/com/leyou/user/api/UserApi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ly-user/ly-user-interface/target/classes/com/leyou/user/pojo/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/ly-user/ly-user-interface/target/classes/com/leyou/user/pojo/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-user/ly-user-service/ly-user-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-user/ly-user-service/ly-user-service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-user/ly-user-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-user/ly-user-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-user/ly-user-service/src/test/java/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-user/ly-user-service/target/test-classes/test.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ly-user/ly-user.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-user/ly-user.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-user/src/test/java/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-user/target/test-classes/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -120,7 +134,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/auth-key" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
@@ -241,11 +255,6 @@
             <path>
               <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
               <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@75c53913" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@95bbb29" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-            </path>
-            <path>
-              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@75c53913" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@30632e48" type="7427dc5b:ServiceModel$ServiceGroupNode" />
             </path>
             <path>
@@ -269,7 +278,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603675751560</updated>
-      <workItem from="1603675760147" duration="12018000" />
+      <workItem from="1603675760147" duration="18455000" />
     </task>
     <servers />
   </component>
